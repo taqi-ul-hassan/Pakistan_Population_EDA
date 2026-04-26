@@ -1,11 +1,11 @@
-# 📊 Pakistan Population EDA
+# Pakistan Population EDA
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes Pakistan's 2017 census data to uncover demographic patterns across provinces, divisions, districts, and sub-divisions. It focuses on urban-rural dynamics, gender distribution, and population density to provide insights for policymakers, urban planners, and researchers.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - **Data Understanding & Quality**
   - Analyze dataset structure and data types  
@@ -33,7 +33,7 @@ This project analyzes Pakistan's 2017 census data to uncover demographic pattern
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Python  
 - Pandas  
@@ -42,9 +42,9 @@ This project analyzes Pakistan's 2017 census data to uncover demographic pattern
 
 ---
 
-## 🎓 Conclusion
+## Conclusion
 
-### 📊 Executive Summary
+### Executive Summary
 - Analysis of Pakistan’s 2017 census across 528 sub-divisions and 4 provinces  
 - Key trends: **population growth**, **urbanization**, and **gender imbalance**  
 
