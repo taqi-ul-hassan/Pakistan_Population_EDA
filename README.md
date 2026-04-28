@@ -1,4 +1,4 @@
-# Pakistan Population EDA
+# Pakistan's Population Complete Exploratory Data Analysis
 
 ## Project Overview
 This project analyzes Pakistan's 2017 census data to uncover demographic patterns across provinces, divisions, districts, and sub-divisions. It focuses on urban-rural dynamics, gender distribution, and population density to provide insights for policymakers, urban planners, and researchers.
