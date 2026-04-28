@@ -50,7 +50,7 @@ This project analyzes Pakistan's 2017 census data to uncover demographic pattern
 
 ---
 
-### 🔍 Key Findings
+### Key Findings
 
 #### 🗺️ Administrative Structure
 - Well-defined 4-level hierarchy  
@@ -89,7 +89,7 @@ This project analyzes Pakistan's 2017 census data to uncover demographic pattern
 
 ---
 
-### ⚠️ Limitations
+### Limitations
 
 - Based on 2017 data (may be outdated)  
 - Limited socioeconomic variables  
@@ -97,7 +97,7 @@ This project analyzes Pakistan's 2017 census data to uncover demographic pattern
 
 ---
 
-### 🔮 Future Work
+### Future Work
 
 - Compare with newer census data  
 - Add socioeconomic indicators  
