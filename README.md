@@ -9,7 +9,7 @@ This project analyzes Pakistan's 2017 census data to uncover demographic pattern
 
 - **Data Understanding & Quality**
   - Analyze dataset structure and data types  
-  - Detect missing values, duplicates, and inconsistencies  
+  - Detecting duplicates, missing values and inconsistencies in the data 
 
 - **Geographic Distribution**
   - Study population across provinces, divisions, and districts  
