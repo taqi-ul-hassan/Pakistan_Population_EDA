@@ -52,34 +52,34 @@ This project analyzes Pakistan's 2017 census data to uncover demographic pattern
 
 ### Key Findings
 
-#### 🗺️ Administrative Structure
+#### Administrative Structure
 - Well-defined 4-level hierarchy  
 - Uneven distribution of sub-divisions  
 - Dataset is complete and reliable  
 
-#### 👥 Population Distribution
+####  Population Distribution
 - Punjab holds majority population (~55%)  
 - High concentration in major cities  
 - Large variation in population density  
 
-#### 🏙️ Urbanization Trends
+#### Urbanization Trends
 - Urban population growing faster than rural  
 - National urbanization ~36%  
 - Significant variation across districts  
 
-#### 📈 Population Growth
+#### Population Growth
 - ~46% growth (1998–2017)  
 - Growth observed in all districts  
 - Urban growth significantly higher  
 
-#### ⚖️ Gender Balance
+#### Gender Balance
 - ~947 females per 1000 males  
 - Male majority in all regions  
 - Some regions show extreme imbalance  
 
 ---
 
-### 💡 Strategic Insights
+### Strategic Insights
 
 - **Infrastructure:** Rapid urban growth requires better planning  
 - **Education & Healthcare:** More resources needed in dense areas  
