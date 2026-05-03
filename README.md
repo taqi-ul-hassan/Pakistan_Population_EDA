@@ -37,7 +37,8 @@ This project analyzes Pakistan's 2017 census data to uncover demographic pattern
 
 - Python  
 - Pandas  
-- Matplotlib / Seaborn  
+- Matplotlib
+- Seaborn 
 - Plotly  
 
 ---
