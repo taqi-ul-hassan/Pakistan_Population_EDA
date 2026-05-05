@@ -106,6 +106,6 @@ This project analyzes Pakistan's 2017 census data to uncover demographic pattern
 
 ---
 
-### 🎯 Final Thought
+### Final Thoughts
 
-> This analysis highlights key demographic trends and provides insights for informed decision-making in policy, planning, and development.
+> This analysis highlights key demographic trends and provides insights for informed decision-making in policy, planning and development.
